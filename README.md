@@ -4,9 +4,6 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/aliyzd95/svm-ser.svg)](https://hub.docker.com/r/aliyzd95/svm-ser)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/aliyzd95/project-shemo-svm-cicd/blob/main/LICENSE) A Speech Emotion Recognition (SER) system using SVM with Opensmile features (eGeMAPSv02) for emotion classification from audio. This project integrates MLflow for experiment tracking and is containerized using Docker for easy setup and deployment.
 
-**Emotions Classified:** Anger, Surprise, Happiness, Sadness, Neutral.
-
-**Project Repository:** [https://github.com/aliyzd95/project-shemo-svm-cicd](https://github.com/aliyzd95/project-shemo-svm-cicd)
 **Docker Hub Image:** [https://hub.docker.com/r/aliyzd95/svm-ser](https://hub.docker.com/r/aliyzd95/svm-ser)
 
 ---
